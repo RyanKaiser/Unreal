@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/hyuk/Documents/Unreal Projects/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/4E/BN0MCBMMPIG1OUVWYOY72D.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YX/TQQHITTVNE4DQ8MHFEJIXO.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/OU/OXHIM85Q2LVPBXV8VQZJBD.uasset"
+			]
+		}
+	]
+}
