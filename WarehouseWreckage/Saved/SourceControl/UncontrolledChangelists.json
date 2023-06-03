@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/WarehouseWreckage/Content/BP_Barrel.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/WarehouseWreckage/Content/Main.umap",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/WarehouseWreckage/Content/Maps/BP_Projectile.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/WarehouseWreckage/Content/Main_BuiltData.uasset",
 				"/Users/hyuk/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/hyuk/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Minimal_Default1.umap",
 				"/Users/hyuk/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/BP_Projectile.uasset",
