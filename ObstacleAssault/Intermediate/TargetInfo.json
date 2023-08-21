@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObstacleAssault",
+			"Path": "/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Source/ObstacleAssault.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObstacleAssaultEditor",
+			"Path": "/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Source/ObstacleAssaultEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

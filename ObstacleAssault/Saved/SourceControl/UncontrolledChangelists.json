@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Content/Main.umap",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Content/Material.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Content/untitled.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Content/BP_MovingPillar.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Content/BP_PushingCube.uasset",
+				"/Users/hyuk/Documents/Unreal Projects/Unreal/ObstacleAssault/Content/BP_ObstacleAssultGameMode.uasset"
+			]
+		}
+	]
+}
